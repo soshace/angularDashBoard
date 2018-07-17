@@ -24,3 +24,5 @@ go to the app root
 >npm install
 >grunt bower-install
 >grunt build:dev
+
+Network for professionals [Soshace](https://soshace.com)
